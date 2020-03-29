@@ -49,7 +49,6 @@ for i_Q=1 : length(Q)
 	end
 	NMSE1(i_Q) = error1/K/N_iter;
 	NMSE2(i_Q) = error2/K/N_iter;  
-   %NMSE3(i_snr) = error3/K/N_iter;
 end
  
 figure(1)
