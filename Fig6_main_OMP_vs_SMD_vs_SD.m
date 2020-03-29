@@ -36,7 +36,7 @@ for i_snr = 1 : length(SNR_dB)
 			%%%OMP%%%
 			h_hat0 = OMP_new(x, Phi, 16, 16);
 			error0 = error0 + norm(h - h_hat0, 2)^2 / norm(h, 2)^2;
-            %%%OMP end%%%
+                        %%%OMP end%%%
 
 			h_hat1 = second_LS(x, Phi, h_hat0, h, L);
 			error1 = error1 + norm(h - h_hat1, 2)^2 / norm(h, 2)^2;
