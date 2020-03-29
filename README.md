@@ -1,5 +1,5 @@
 # Reliable-Beamspace-Channel-Estimation
-## Reproducible research on the paper 'Reliable Beamspace Channel Estimation for Millimeter-Wave Massive MIMO Systems with Lens Antenna Array'
+## Reproducible research on the paper [Reliable Beamspace Channel Estimation for Millimeter-Wave Massive MIMO Systems with Lens Antenna Array](https://ieeexplore.ieee.org/abstract/document/7959626)
 
 run 'Fig6_main_OMP_vs_SMD_vs_SD.m' to get the fig.6 of the paper.
 
