@@ -13,7 +13,7 @@ N = K; % number of retained RF chains
 d = lamada / 2;
 NMSE = zeros(1, length(SNR_dB));
 for i_snr = 1 : length(SNR_dB) 
-	disp(['the SNR is :', num2str(i_snr)]);
+	disp(['Simulating when the SNR is : ', num2str(SNR_dB(i_snr))]);
 	SNR = SNR_linear(i_snr);
 	sigma2 = 1/SNR_linear(i_snr);
 	temp = 0; temp1 = 0; temp2 = 0; temp3 = 0; temp4 = 0; temp5 = 0; temp6 = 0;
