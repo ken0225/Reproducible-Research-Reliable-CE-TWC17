@@ -14,7 +14,7 @@ d = lamada / 2;
 NMSE = zeros(1, length(SNR_dB));
 % sigma2=1/SNR_linear(5);
 for i_Q=1 : length(Q) 
-	disp(['the Q is :', num2str(i_Q)]);
+	disp(['Simulating when the Q is : ', num2str(Q(i_Q))]);
 	SNR=SNR_linear;
 	sigma2=1 / SNR_linear;
 	temp = 0; temp1 = 0; temp2 = 0; temp3 = 0; temp4 = 0; temp5 = 0; temp6 = 0;
