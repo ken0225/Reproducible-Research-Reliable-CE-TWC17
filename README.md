@@ -9,5 +9,10 @@ Run 'Fig7_main_Q_OMP_vs_SD.m' to get the fig.7 of the paper.
 
 Original code is from [here](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Reliable%20beamspace%20channel%20estimation%20for%20millimeter-wave%20massive%20MIMO%20systems%20with%20lens%20antenna%20array.zip), but it seems not completed and lack the main algorithm.
 
+## Results 
+
+![image](https://github.com/ken0225/07959626_reliable/blob/master/fig.6.png)
+![image](https://github.com/ken0225/07959626_reliable/blob/master/fig.7.png)
+
 
 Please enjoy. 
