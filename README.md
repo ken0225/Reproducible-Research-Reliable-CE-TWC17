@@ -1,5 +1,5 @@
 # 07959626_reliable
-## Reproducible research on the paper [Reliable Beamspace Channel Estimation for Millimeter-Wave Massive MIMO Systems with Lens Antenna Array](https://ieeexplore.ieee.org/abstract/document/7959626)
+## Reproducible research on the paper [Reliable Beamspace Channel Estimation for Millimeter-Wave Massive MIMO Systems with Lens Antenna Array](https://ieeexplore.ieee.org/abstract/document/7959626) in IEEE Transactions on Wireless Communications, vol. 16, no. 9, pp. 6010-6021, Sept. 2017, by X. Gao, L. Dai, S. Han, C. -L. I and X. Wang
 
 ## How to use the code?
 
