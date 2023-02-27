@@ -11,7 +11,7 @@ Run 'Fig7_main_Q_OMP_vs_SD.m' to get the fig.7 of the paper.
 
 Original code is from [here](http://oa.ee.tsinghua.edu.cn/dailinglong/publications/code/Reliable%20beamspace%20channel%20estimation%20for%20millimeter-wave%20massive%20MIMO%20systems%20with%20lens%20antenna%20array.zip), but it seems not completed and lack the main algorithm.
 
-## What can we get?
+## What can we get the results?
 
 You can obtain figure 6 and 7 of the paper, namely, 
 
